@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## I'm Lizzie
+
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning JavaScript
+- ⚡ Fun fact: I've been on a Tv quiz show.
+
 <!--
 **ElizabethDawson7/ElizabethDawson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
